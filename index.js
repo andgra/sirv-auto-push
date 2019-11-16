@@ -65,4 +65,4 @@ const sirvAp = (dir, opts = {}) => {
   };
 };
 
-export default sirvAp;
+module.exports = sirvAp;

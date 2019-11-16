@@ -12,7 +12,7 @@
     "middleware"
   ],
   "repository": "andgra/sirv-auto-push",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "files": [
     "LICENSE",
