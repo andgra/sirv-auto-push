@@ -1,0 +1,30 @@
+{
+  "name": "sirv-auto-push",
+  "description": "Middleware for express based apps which serves static files via sirv using h2-auto-push",
+  "author": {
+    "name": "Andrey Grandilevskiy",
+    "email": "grandilev@gmail.com"
+  },
+  "keywords": [
+    "sirv",
+    "auto-push",
+    "http2",
+    "middleware"
+  ],
+  "repository": "andgra/sirv-auto-push",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {
+    "cookie": "^0.4.0",
+    "h2-auto-push": "^0.4.1",
+    "sirv": "^0.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
